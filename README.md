@@ -1,0 +1,2 @@
+# DiscordScraper
+Scraper pour Discord
